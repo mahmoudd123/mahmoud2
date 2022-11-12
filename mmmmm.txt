@@ -1,7 +1,2 @@
 x=5
 y=4
-sad
-fuck
-z=8
-die
-lol
